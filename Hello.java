@@ -1,7 +1,7 @@
 // Simple Hello World App
 // java is a strongly typed programming language, because we need to define the type of varibale to store the data
 // Author : Pariksheet De
-// Date :
+// Date : 04-10-2023
 class Hello
 {
     public static void main(String arg[])
