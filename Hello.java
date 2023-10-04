@@ -1,3 +1,4 @@
+// Simple Hello World App
 class Hello
 {
     public static void main(String a[])
