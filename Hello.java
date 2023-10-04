@@ -7,6 +7,6 @@ class Hello
         int a = 7;
         int b = 3;
         System.out.println("Hello World from Pariksheet");
-        System.out.print(a + b);
+        System.out.println(a + b);
     }
 }
