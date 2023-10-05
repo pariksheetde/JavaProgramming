@@ -8,7 +8,8 @@ class Hello
     {
         int a = 7;
         int b = 3;
+        float result = a + b;
         System.out.println("Hello World from Pariksheet");
-        System.out.println(a + b);
+        System.out.println(result);
     }
 }
